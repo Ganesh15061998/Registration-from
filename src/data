@@ -1,0 +1,77 @@
+<div>
+    <div className="div">
+   
+    <from className ='form' action="" onsubmit="submitForm()">
+        {/* <div className="one"> */}
+        <h4 className="heading">Personal Details</h4>
+        <label className='p' >Name*</label>
+        <input className = "o" type = 'text' placeholder='Enter Name' id="name"  value={user.name} onChange={handleinput}/>
+        {/* <label  >DOB*</label>
+        <input className = "o" type = 'text'  placeholder="dd-mm-yyyy" />
+       
+        <label>Sex*</label>
+        <select className = "o" id="exampleFormControlSelect1" placeholder="sex*">
+            <option>Male</option>
+            <option>Female</option>
+            <option>Not Specify</option>
+        </select>
+
+        <label>Mobile</label>
+        <input className = "o" type = 'text' placeholder='Mobile' />
+        <label>Govt Issued Id</label>
+        <input className = "o" type = 'text' placeholder='Enter ID' />
+        </div>
+
+        <h4 className="heading">Contact Details</h4>
+        
+        <label>Guardian Name</label>
+        <input className = "o" type = 'text' placeholder='Guardian  Name' />
+        <label>Email</label>
+        <input className = "o" type = 'text' placeholder='Email' />
+        <label>Guardian Name</label>
+        <input className = "o" type = 'text' placeholder='Guardian  Name' />
+        <label> emergency Contact number</label>
+        <input className = "o" type = 'text' placeholder=' emergency Contact No' />
+
+        <h4 className="heading">Address Details</h4>
+        <label>Address</label>
+        <input className = "o" type = 'text'  placeholder="Address" />
+        <label>Country</label>
+        <input className = "o" type = 'text'  placeholder="Country" />
+        <label>State</label>
+        <input className = "o" type = 'text'  placeholder="State" />
+        <label>City</label>
+        <input className = "o" type = 'text'  placeholder="City" />
+        <label>Pin No</label>
+        <input className = "o" type = 'text'  placeholder="Pin No" />
+
+        <h4 className="heading">Other Details</h4>
+        <label>Occupation</label>
+        <input className = "o" type = 'text'  placeholder="Occupation" />
+        <label>Religon</label>
+        <input className = "o" type = 'text'  placeholder="Religon" />
+        <label>Maritial Status</label>
+        <input className = "o"type = 'text'  placeholder="Maritial Status" />
+        <label>Blood Group</label>
+        <input className = "o" type = 'text'  placeholder="Blood Group" />
+        <label>Nationnality</label>
+        <input className = "o" type = 'text'  placeholder="Nationnality" /> */}
+
+
+        {/* <input type="submit" /> */}
+
+    <div className='btn1'>
+        <button className="btn"  >CANCEL</button>
+        <button className="btn"  >SUBMIT</button>
+    </div>
+        
+    </from>
+</div>
+
+<div>
+  <table>
+    
+  </table>
+</div>
+
+</div>
